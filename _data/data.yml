@@ -83,10 +83,12 @@ experiences:
             - Develop and document work procedures and troubleshooting guidelines
             - Participate in technology projects, quality assurance testing and other activities as assigned
       - role: Senior Network Engineer
-        time: 2011 - 2015
+        time: 2014 - 2015
+        company: Secant Technologies, Inc.
+      - role: Network Engineer
+        time: 2011 - 2014
         company: Secant Technologies, Inc.
         details: |
-          Network Engineer 2011 - 2014
           
           Design, implement and maintain Cisco Wireless, Security, Network and Voice Infrastructures for clients across Michigan
             - Work closely with solutions architects to consult on services hours, technical architecture and quotation requirements.
