@@ -43,7 +43,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: |-
       Summarise your career here.
       Second paragraph if required.
 education:
@@ -87,6 +87,7 @@ experiences:
         company: Secant Technologies, Inc.
         details: |
           Network Engineer 2011 - 2014
+          
           Design, implement and maintain Cisco Wireless, Security, Network and Voice Infrastructures for clients across Michigan
             - Work closely with solutions architects to consult on services hours, technical architecture and quotation requirements.
             - Develop best practice standards and documentation for these technologies
