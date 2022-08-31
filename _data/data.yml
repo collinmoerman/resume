@@ -25,7 +25,6 @@ sidebar:
       info:
         - idiom: Cisco CCNA
           level: 2009 - Present
-
         - idiom: Cisco CCNP Enterprise
           level: 2014 - Present
 
@@ -34,10 +33,8 @@ sidebar:
       info:
         - item: Hiking
           link:
-
         - item: Rock Climbing
           link:
-
         - item: Family Time
           link:
 
@@ -55,6 +52,7 @@ education:
         details: |
             - Developed system monitoring tools for Linux and Mac OSX CEAS lab computers
             - Debugged and enriched features of race simulation engine for the Sunseeker Solar Car Project
+            
 experiences:
     title: Work Experience
     info:
@@ -85,20 +83,23 @@ experiences:
       - role: Senior Network Engineer
         time: 2014 - 2015
         company: Secant Technologies, Inc.
-      - role: Network Engineer
-        time: 2011 - 2014
-        company: Secant Technologies, Inc.
         details: |
-          
           Design, implement and maintain Cisco Wireless, Security, Network and Voice Infrastructures for clients across Michigan
             - Work closely with solutions architects to consult on services hours, technical architecture and quotation requirements.
             - Develop best practice standards and documentation for these technologies
             - Mentor other engineers on best practices and troubleshooting
-            - Foster culture of collaboration and skill development across departments       
+            - Foster culture of collaboration and skill development across departments    
+      - role: Network Engineer
+        time: 2011 - 2014
+        company: Secant Technologies, Inc.
+        details: |
+          Implement and troubleshoot Cisco technologies across their portfolio
+            - Manage project tasks through completion
+            - Respond to reactive requests and resolve in a timely fashion
+            - Assist in the development of best practices and documentation standards
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Cisco Unified Collaboration
         level: 98%
@@ -125,6 +126,5 @@ skills:
       - name: Ansible
         level: 40%
         
-
 footer: >
     Designed credit <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
