@@ -9,12 +9,12 @@ sidebar:
 
     # Profile information
     name: Collin Moerman
-    tagline: Senior Network & Telephony Engineer
+    tagline: Senior Network & Collaboration Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: collin.moerman@gmail.com
-    phone: +12692075655 
+    phone: \+12692075655 
     timezone: America/Detroit Timezone
     website: collin.moerman.us #do not add http://
     linkedin: collinmoerman
@@ -83,9 +83,10 @@ experiences:
             - Develop and document work procedures and troubleshooting guidelines
             - Participate in technology projects, quality assurance testing and other activities as assigned
       - role: Senior Network Engineer
-        time: 2011 - 2014 (Network Engineer), 2014 - 2015 (Network Engineer)
+        time: 2011 - 2015
         company: Secant Technologies, Inc.
         details: |
+          Network Engineer 2011 - 2014
           Design, implement and maintain Cisco Wireless, Security, Network and Voice Infrastructures for clients across Michigan
             - Work closely with solutions architects to consult on services hours, technical architecture and quotation requirements.
             - Develop best practice standards and documentation for these technologies
