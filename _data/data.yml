@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |-
-      Experienced technical leader with a strong background in collaboration technologies. Passion for streamlining processes through automation and development. Strong experience in analyzing, troubleshooting, and resolving technical issues related to Cisco technologies, including Wireless, Security, Network, and Voice Infrastructures. Solution oriented focus to ensure successful delivery of solutions.  Skilled mentor who fosters a culture of collaboration and skill development across departments.
+      Experienced technical leader with a strong background in collaboration technologies. Passion for streamlining processes through automation and development. Strong experience in analyzing, troubleshooting, and resolving technical issues related to Cisco technologies, including Wireless, Security, Network, and Voice Infrastructures. Solution-oriented focus to ensure successful delivery of solutions and resolution to problems.  A skilled mentor who fosters a culture of collaboration and skill development across departments.
 education:
     title: Education
     info:
@@ -89,7 +89,7 @@ experiences:
             - Work closely with solutions architects to consult on services hours, technical architecture and quotation requirements.
             - Develop best practice standards and documentation for these technologies
             - Mentor other engineers on best practices and troubleshooting
-            - Foster culture of collaboration and skill development across departments    
+            - Foster a culture of collaboration and skill development across departments    
       - role: Network Engineer
         time: 2011 - 2014
         company: Secant Technologies, Inc.
@@ -110,11 +110,11 @@ projects:
 
       - title: Internal Credential Repository Migration
         link: "#"
-        tagline: Developed tooling on a short timeframe to migrate internal credential respository to a new system. 
+        tagline: Developed tooling on a short timeframe to migrate internal credential repository to a new system. 
         
       - title: Call Search
         link: "#"
-        tagline: Filter call data (SIP and RTP/RTCP) from rolling packet captures, reducing time to troubleshoot from several hours to several minutes.
+        tagline: Filter call data (SIP and RTP/RTCP) from rolling packet captures, reducing troubleshooting time from several hours to several minutes.
 
       - title: Visio Diagramming tooling
         link: "#"
@@ -150,4 +150,4 @@ skills:
         level: 40%
         
 footer: >
-    Designed credit <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Design credit <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
