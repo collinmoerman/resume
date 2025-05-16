@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Collin Moerman
-    tagline: Senior Network & Collaboration Engineer
+    tagline: AI & Data Science Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,19 +31,17 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Ice Hockey
+          link:
         - item: Hiking
           link:
         - item: Rock Climbing
-          link:
-        - item: Family Time
-          link:
-        - item: Ice Hockey
           link:
 
 career-profile:
     title: Career Profile
     summary: |-
-      Experienced technical leader with a strong background in collaboration technologies. Passion for streamlining processes through automation and development. Strong experience in analyzing, troubleshooting, and resolving technical issues related to Cisco technologies, including Wireless, Security, Network, and Voice Infrastructures. Solution-oriented focus to ensure successful delivery of solutions and resolution to problems.  A skilled mentor who fosters a culture of collaboration and skill development across departments.
+      Engineer with 15+ years of experience bridging network engineering and intelligent automation. Fast learner with a strong foundation in software engineering and rapidly growing expertise in AI and data science, demonstrated through hands-on projects in LLMs, microservices, and data pipeline development. Proven ability to lead cross-functional delivery, mentor technical teams, and build resilient applications. Dedicated to building efficient, maintainable systems with a focus on reproducible models, scalable workflows, and robust deployment practices.
 education:
     title: Education
     info:
@@ -57,7 +55,7 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Team Lead - Support Services 
+      - role: Technical Lead - Support Services 
         time: 2018 - Present
         company: Sentinel Technologies, Inc.
         details: |
@@ -104,6 +102,26 @@ projects:
     intro: >
      A few of the projects & tasks undertaken
     assignments:
+      - title: Devolutions SDK
+        link: "#"
+        tagline: A Python SDK focused on data retreival from Devolutions Server, Reverse engineered from defunct https://github.com/Devolutions/devolutions-server and inspection of web server calls.
+        
+      - title: Expressway BaaS
+        link: "#"
+        tagline: Python microservice to gather credential information from Devolutions and create a SFTP configuration backup.
+        
+      - title: CSRv Spinups
+        link: "#"
+        tagline: Tool to automate Cisco Catalyst 8000v Day 0 configuration using templating and dynamic user input.
+        
+      - title: Sentinel Level0 Customer Service Webex AI Agent
+        link: "#"
+        tagline: Webex Scripted AI agent designed to take user input for basic case management actions. Primary engineer on Natural Langage Processing (NLP) design. Worked closely on REST API interface specifications to manage interactions between agent and external middleware service.
+        
+      - title: SIP Expert Chatbot
+        link: "#"
+        tagline: Home Project for RAG LLM learning experience. Local Ollama LLM using LangChain framework and ChromaDB.
+        
       - title: MPP Migration Hardware Revision Discovery
         link: https://github.com/collinmoerman/Cisco-MPP-Migration-Hardware-Revision-Discovery
         tagline: Discover 78xx phone hardware revisions to prepare for MPP Firmware migration
@@ -124,30 +142,26 @@ projects:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: Cisco Unified Collaboration
-        level: 98%
-      - name: Webex, Zoom, Teams
-        level: 98%
-      - name: Cisco Catalyst, Nexus, ASA, FTD
-        level: 98%
-      - name: IEEE 802.1x
-        level: 90%
-      - name: Quality of Service (QoS)
-        level: 85%
-      - name: Multicast
-        level: 85%
       - name: Python
-        level: 75%
-      - name: Javascript
-        level: 50%
-      - name: .NET
-        level: 70%
-      - name: SQL
-        level: 50%
-      - name: REST & SOAP APIs
+        level: 90%
+      - name: JavaScript
         level: 80%
-      - name: Ansible
-        level: 40%
+      - name: .NET
+        level: 75%
+      - name: REST APIs
+        level: 90%
+      - name: Docker
+        level: 85%
+      - name: Git
+        level: 85%
+      - name: Pandas/Polars
+        level: 75%
+      - name: LangChain
+        level: 20%
+      - name: Scikit-learn
+        level: 20%
+      - name: Kubernetes
+        level: 15%
         
 footer: >
     Design credit <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
